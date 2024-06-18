@@ -1,0 +1,11 @@
+{
+  "name": "examples",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "gen:example-list": "node ./scripts/gen-example-list.js"
+  },
+  "keywords": [],
+  "author": "onlymisaky@gmail.com",
+  "license": "ISC"
+}
