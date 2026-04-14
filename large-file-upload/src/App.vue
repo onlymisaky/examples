@@ -19,6 +19,8 @@ function handleSelectFile(e) {
     console.timeEnd('cutFile');
   });
 }
+
+window.addEventListener('unload')
 </script>
 
 <template>
